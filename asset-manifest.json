@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atcomlabs/libro2esp.git/static/css/main.05e18e00.chunk.css",
+    "main.js": "/atcomlabs/libro2esp.git/static/js/main.7a4e52c9.chunk.js",
+    "main.js.map": "/atcomlabs/libro2esp.git/static/js/main.7a4e52c9.chunk.js.map",
+    "runtime-main.js": "/atcomlabs/libro2esp.git/static/js/runtime-main.635a5d0e.js",
+    "runtime-main.js.map": "/atcomlabs/libro2esp.git/static/js/runtime-main.635a5d0e.js.map",
+    "static/js/2.21a11de2.chunk.js": "/atcomlabs/libro2esp.git/static/js/2.21a11de2.chunk.js",
+    "static/js/2.21a11de2.chunk.js.map": "/atcomlabs/libro2esp.git/static/js/2.21a11de2.chunk.js.map",
+    "static/js/3.3c971680.chunk.js": "/atcomlabs/libro2esp.git/static/js/3.3c971680.chunk.js",
+    "static/js/3.3c971680.chunk.js.map": "/atcomlabs/libro2esp.git/static/js/3.3c971680.chunk.js.map",
+    "index.html": "/atcomlabs/libro2esp.git/index.html",
+    "static/css/main.05e18e00.chunk.css.map": "/atcomlabs/libro2esp.git/static/css/main.05e18e00.chunk.css.map",
+    "static/js/2.21a11de2.chunk.js.LICENSE.txt": "/atcomlabs/libro2esp.git/static/js/2.21a11de2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.635a5d0e.js",
+    "static/js/2.21a11de2.chunk.js",
+    "static/css/main.05e18e00.chunk.css",
+    "static/js/main.7a4e52c9.chunk.js"
+  ]
+}
